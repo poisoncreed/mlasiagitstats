@@ -1,0 +1,9 @@
+Package: mlasiagitstats
+Title: GitStats application for Media Lab Asia using OpenCPU
+Version: 0.0.0.9000
+Authors@R: person("Vishal", "Virmani", , "vishal@medialabasia.in", role = c("aut", "cre"))
+Description: This package is a custom package developed to monitor GitStats activities for Media Lab Asia. 
+             It is being deveoped using OpenCPU, and charts github statistics.
+Depends: R (>= 3.1.3)
+License: GPL
+LazyData: true
